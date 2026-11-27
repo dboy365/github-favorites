@@ -11,6 +11,7 @@
 | [Shizuku](https://github.com/RikkaApps/Shizuku) | 免 Root 让普通 App 调用系统级 API 的权限通道，玩机必备 | ⭐ 34.7k |
 | [Folo](https://github.com/RSSNext/Folo) | AI 智能阅读器，订阅 RSS/视频/播客，支持 AI 摘要翻译 | ⭐ 39.4k |
 | [有所闻 NewsNook](https://github.com/t59688/newsnook) | 开箱即用的新闻聚合 App，内置新闻源，无广告无算法 | ⭐ 330 |
+| [MoonTechLab / LunaTV](https://github.com/MoonTechLab/LunaTV) | 影视聚合播放开源项目，在线站点：https://cmoontv.dedyn.io/ | ⭐ 11.0k |
 
 ---
 
@@ -18,4 +19,4 @@
 
 - 这里只放我真正喜欢或常用的项目，方便随时查找访问
 - 想新增收藏，告诉助手「把 xx 添加到 GitHub 收藏」即可
-- 最后更新：2026-11-26
+- 最后更新：2026-11-28
