@@ -12,6 +12,7 @@
 | [Folo](https://github.com/RSSNext/Folo) | AI 智能阅读器，订阅 RSS/视频/播客，支持 AI 摘要翻译 | ⭐ 39.4k |
 | [有所闻 NewsNook](https://github.com/t59688/newsnook) | 开箱即用的新闻聚合 App，内置新闻源，无广告无算法 | ⭐ 330 |
 | [MoonTechLab](https://github.com/MoonTechLab) | 影视聚合播放开源项目（LunaTV） | ⭐ 11.0k |
+| [FlClash](https://github.com/Vialibrex/FlClash) | 基于 Clash Meta 的多平台代理客户端，简单易用、开源无广告 | ⭐ 65.9k |
 
 ---
 
